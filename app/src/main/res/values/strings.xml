@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Kotlin first</string>
+    <string name="button_change_name">Change name</string>
+    <string name="hint_press_chng_btn">Press Change button</string>
+    <string name="button_change_value">Change value</string>
 </resources>
